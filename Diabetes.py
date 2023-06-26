@@ -8,7 +8,8 @@ st.set_page_config(
     page_title="Multipage App",
     page_icon="👋",
 )
-st.title("Main Page")
+st.title("VITASCAN-SMART-O-THON")
+st.title('Diabetes')
 st.sidebar.success("Select a page above.")
 
 st.write('Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Glucose is your body’s main source of energy. Your body can make glucose, but glucose also comes from the food you eat.')
